@@ -1,0 +1,16 @@
+{
+  "name": "word-banner",
+  "version": "1.0.0",
+  "description": "Discord bot that bans people from servers for saying certain things",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MSGuy01",
+  "license": "ISC"
+}
